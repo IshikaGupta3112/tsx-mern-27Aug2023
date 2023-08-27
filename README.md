@@ -12,9 +12,12 @@ Features:
 Tech-stacks: HTML, CSS, ReactJs, Redux
 
 Images:
-<img width="1440" alt="Screenshot 2023-08-27 at 2 48 12 PM" src="https://github.com/IshikaGupta3112/tsx-mern-27Aug2023/assets/113205098/410e7f13-03be-4b17-b711-b117d06063c0">
-<img width="1440" alt="Screenshot 2023-08-27 at 2 48 37 PM" src="https://github.com/IshikaGupta3112/tsx-mern-27Aug2023/assets/113205098/3b6649f1-bdf9-489d-9f00-e31ec821e78d">
-<img width="1440" alt="Screenshot 2023-08-27 at 2 48 47 PM" src="https://github.com/IshikaGupta3112/tsx-mern-27Aug2023/assets/113205098/41249584-59ff-4be4-b98f-1eabb50b2c64">
-<img width="1440" alt="Screenshot 2023-08-27 at 2 48 54 PM" src="https://github.com/IshikaGupta3112/tsx-mern-27Aug2023/assets/113205098/7dcf4276-78a2-46b5-87b4-dadd0e76c9cf">
+<img width="1440" alt="Screenshot 2023-08-27 at 5 27 11 PM" src="https://github.com/IshikaGupta3112/tsx-mern-27Aug2023/assets/113205098/a6e3aec2-da1a-45dd-8756-f00d28fbaad1">
+<img width="1440" alt="Screenshot 2023-08-27 at 3 55 17 PM" src="https://github.com/IshikaGupta3112/tsx-mern-27Aug2023/assets/113205098/990717b5-3e1b-4961-870e-55ab675b699d">
+<img width="1440" alt="Screenshot 2023-08-27 at 3 55 23 PM" src="https://github.com/IshikaGupta3112/tsx-mern-27Aug2023/assets/113205098/229d078d-777d-423c-80d8-96546d4d4881">
+<img width="1440" alt="Screenshot 2023-08-27 at 3 57 06 PM" src="https://github.com/IshikaGupta3112/tsx-mern-27Aug2023/assets/113205098/6b6d0028-ed82-44d0-8233-8e81a5020011">
+<img width="1440" alt="Screenshot 2023-08-27 at 3 55 50 PM" src="https://github.com/IshikaGupta3112/tsx-mern-27Aug2023/assets/113205098/6cacda40-9fb1-470a-ab1f-9e9abb73eec3">
 <img width="1440" alt="Screenshot 2023-08-27 at 3 04 15 PM" src="https://github.com/IshikaGupta3112/tsx-mern-27Aug2023/assets/113205098/f61d1805-626e-46d5-b705-cee018f2ffb4">
-<img width="385" alt="Screenshot 2023-08-27 at 2 53 24 PM" src="https://github.com/IshikaGupta3112/tsx-mern-27Aug2023/assets/113205098/c9ecb4e4-1ee5-4f27-b9e2-0ed02ffc85eb">
+<img width="319" alt="Screenshot 2023-08-27 at 5 30 49 PM" src="https://github.com/IshikaGupta3112/tsx-mern-27Aug2023/assets/113205098/eff78816-e40f-482f-94bc-ee38a17d65c0">
+
+
