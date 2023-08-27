@@ -12,8 +12,7 @@ body {
 #navigationDiv {
   display: flex;
   justify-content: center;
-  padding-top: 30px;
-  padding-bottom: 30px;
+  padding: 70px;
   background-color: black;
 }
 #navigationDiv button {
@@ -38,6 +37,9 @@ body {
   color: #ffffff90;
   padding-top: 40px;
   background-color: black;
+}
+#contentDiv h1{
+  margin:0 30px;
 }
 
 /* Box containing cards */
@@ -95,8 +97,7 @@ body {
   background: none;
 }
 #dialogButton {
-  margin-top: 5px;
-  margin-left: -3px;
+  margin: 5px 0 10px -3px;
   padding: 5px 10px;
   border: none;
   background-color: #563d7c;
@@ -112,16 +113,28 @@ body {
   }
   #dialogContent1 {
     margin: 0;
+    margin-top: -25px;
   }
   #dialogTitle2 {
     margin: 0;
   }
   #dialogContent2 {
     margin: 0;
+    margin-top: -25px;
   }
 }
 @media (max-width: 340px) {
   #box {
     width: 230px;
+  }
+}
+@media (max-width: 295px) {
+  #box {
+    width: 210px;
+  }
+}
+@media (max-width: 245px) {
+  #box {
+    width: 190px;
   }
 }

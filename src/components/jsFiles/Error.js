@@ -6,6 +6,7 @@ function Error() {
     <>
       <div id="errorDiv">
         <img src={error} />
+        <h1>Site Can not be Loaded!!</h1>
       </div>
     </>
   );

@@ -1,9 +1,13 @@
 #errorDiv {
+  position: fixed;
   width: 100vw;
-  text-align: center;
-  background-color: black;
+  flex-direction: column;
+text-align: center;
 }
 #errorDiv img {
-  width: 30vw;
+  width: 40vw;
   margin: 50px;
 }
+#errorDiv h1{
+    margin:0 20px;
+  }

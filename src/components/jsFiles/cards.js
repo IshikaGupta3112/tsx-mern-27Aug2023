@@ -88,11 +88,12 @@ function CardPage() {
   return (
     <>
       {loading ? <Loader /> : null}
-      <Navbar />
+
       {error ? (<Error />) : (
         <>
+              <Navbar />
           <div id="contentDiv">
-            <h1>STAR WAR CHARACTERS</h1>
+           <h1>STAR WAR CHARACTERS</h1>
             <div style={{display: "flex",flexWrap: "wrap",marginTop: "30px",justifyContent: "center",}}>
               {charList? charList.map((people,index) => (
                     <><div style={{ display: "none" }}>
