@@ -45,6 +45,9 @@ body {
   width: 260px;
   cursor: pointer;
 }
+#boxDiv {
+  margin: 20px 30px;
+}
 
 /* Cards */
 #cardContent {
