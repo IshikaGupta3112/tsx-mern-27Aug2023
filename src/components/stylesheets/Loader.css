@@ -1,0 +1,15 @@
+#loader {
+    height: 100%;
+    width: 100vw;
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.5);
+    position: absolute;
+    z-index: 2;
+  }
+  #spinner {
+    position: fixed;
+    background: none;
+    top: 50%;
+    left: 50%;
+    z-index: 1;
+  }

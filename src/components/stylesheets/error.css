@@ -1,0 +1,9 @@
+#errorDiv{
+    width:100vw;
+    text-align: center;
+    background-color: black;
+}
+#errorDiv img{
+    width:30vw;
+    margin:50px;
+}
