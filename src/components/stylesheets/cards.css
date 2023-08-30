@@ -19,10 +19,13 @@ body {
   margin: 10px 5px;
   padding: 5px 20px;
   border: none;
-  background-color: #563d7c;
+  background-image: linear-gradient(180deg,#5A2FB0 0%,rgb(212, 101, 4) 100%);
   color: white;
   border-radius: 10px;
   text-align: center;
+}
+#navigationDiv button:hover {
+  background-image: linear-gradient(180deg,rgb(212, 101, 4) 0%, #5A2FB0  100%);
 }
 #navigationDiv button img {
   margin-top: -4px;
@@ -40,6 +43,9 @@ body {
 }
 #contentDiv h1{
   margin:0 30px;
+  background: -webkit-linear-gradient(#5A2FB0, rgb(212, 101, 4));
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
 }
 
 /* Box containing cards */
@@ -100,11 +106,15 @@ body {
   margin: 5px 0 10px -3px;
   padding: 5px 10px;
   border: none;
-  background-color: #563d7c;
+  /* background-color: #563d7c; */
+  background-image: linear-gradient(180deg, #5A2FB0 0%, rgb(212, 101, 4) 100%);
   color: white;
   border-radius: 10px;
   text-align: center;
   cursor: pointer;
+}
+#dialogButton:hover {
+  background-image: linear-gradient(180deg,rgb(212, 101, 4) 0%, #5A2FB0  100%);
 }
 
 @media (max-width: 390px) {
