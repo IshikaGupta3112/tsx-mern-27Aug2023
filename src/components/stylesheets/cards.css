@@ -55,6 +55,7 @@ body {
 }
 #boxDiv {
   margin: 20px 30px;
+  background-color: black;
 }
 
 /* Cards */
