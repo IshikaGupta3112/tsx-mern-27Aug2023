@@ -1,10 +1,3 @@
-#nav {
-  background-color: #563d7c;
-  display: flex;
-  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
-  top: 0px;
-  height: 4rem;
-}
 
 #nav h1 {
   color: white;
